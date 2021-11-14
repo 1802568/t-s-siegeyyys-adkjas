@@ -49,5 +49,5 @@ function mouseDragged(){
 
 function mouseReleased(){
   rope.fly();
-  hero.velocityX=5
+  hero.velocityX=10
 }
